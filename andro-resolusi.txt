@@ -1,5 +1,5 @@
 Andro RESOLUSI
 - MEMPELAJARI PYTHON UNTUK DATA SCIENCE
-- MEMULAI PROSES BELAJAR UNTUK SERTIFIKASI Google Cloud
 - MEMPELAJARI git
 - Review Data Visualization
+- Memulai Course Google Cloud
